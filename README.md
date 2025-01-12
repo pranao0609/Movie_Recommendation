@@ -28,10 +28,10 @@ This project allows users to select a movie and receive recommendations for simi
 
 Here are some screenshots of the Movie Recommendation System:
 
-![App Screenshot 1](images/screenshot1.png)
+![App Screenshot 1](newq.png)
 *Select a movie from the dropdown menu to get recommendations.*
 
-![App Screenshot 2](images/screenshot2.png)
+![App Screenshot 2](new.png)
 *Recommendations and movie posters displayed.*
 
 ---
